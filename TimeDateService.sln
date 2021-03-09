@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeDateService", "TimeDateService\TimeDateService.csproj", "{E2315872-E0B0-4CF3-8AE8-D71DF59C56DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeClient", "DateTimeClient\DateTimeClient.csproj", "{3AB10088-BA21-4F28-A3CF-B8FAE6EB36A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2315872-E0B0-4CF3-8AE8-D71DF59C56DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2315872-E0B0-4CF3-8AE8-D71DF59C56DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2315872-E0B0-4CF3-8AE8-D71DF59C56DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2315872-E0B0-4CF3-8AE8-D71DF59C56DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB10088-BA21-4F28-A3CF-B8FAE6EB36A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB10088-BA21-4F28-A3CF-B8FAE6EB36A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB10088-BA21-4F28-A3CF-B8FAE6EB36A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB10088-BA21-4F28-A3CF-B8FAE6EB36A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E944BF-8A9C-49C2-94EA-DC362F61F897}
+	EndGlobalSection
+EndGlobal
